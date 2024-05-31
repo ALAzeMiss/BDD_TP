@@ -26,7 +26,14 @@ date_début,
 date_fin
 
 ## MCD
-![MCD](/BDD.jpg "MCD").
+![MCD](/Data/MCD.png "MCD").
+
 
 ## MLD
-![MLD](/BDD_MLD.jpg "MLD").
+![MLD](/Data/MLD.png "MLD").
+
+
+-- ce numéro étudiant est unique 
+-- Pour faciliter la recherche de la personne 
+-- département d'enseignement dans l'école d'ingénieur
+-- année d'étude de l'étudiant
