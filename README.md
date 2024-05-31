@@ -26,11 +26,11 @@ date_début,
 date_fin
 
 ## MCD
-![MCD](/Data/MCD.png "MCD").
+![MCD](/Data/MCD.png "MCD")
 
 
 ## MLD
-![MLD](/Data/MLD.png "MLD").
+![MLD](/Data/MLD.png "MLD")
 
 
 -- ce numéro étudiant est unique 
