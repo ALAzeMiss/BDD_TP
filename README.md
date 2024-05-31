@@ -25,15 +25,15 @@ id_réservation,
 date_début,
 date_fin
 
+### Liaison
+
+Une Réservation est liée à un Utilisateur et à un Matériel.
+Un Utilisateur peut avoir autant de Réservation qu'il le souhaite.
+Une Matériel peut être emprunter dans autant de Réservation que nécessaire mais il ne peut y avoir qu'un matériel par réservation.
+
 ## MCD
 ![MCD](/Data/MCD.png "MCD")
 
 
 ## MLD
 ![MLD](/Data/MLD.png "MLD")
-
-
--- ce numéro étudiant est unique 
--- Pour faciliter la recherche de la personne 
--- département d'enseignement dans l'école d'ingénieur
--- année d'étude de l'étudiant
