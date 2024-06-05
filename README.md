@@ -37,3 +37,6 @@ Une Matériel peut être emprunter dans autant de Réservation que nécessaire m
 
 ## MLD
 ![MLD](/Data/MLD.png "MLD")
+
+
+Aidé par Victor, Damien et Dorian.
