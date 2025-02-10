@@ -18,7 +18,4 @@ INSERT INTO Utilisateur (numero_etudiant, nom_utilisateur, prenom_utilisateur, d
 (00000003, 'NOM', 'Mallory', 'DI', '5'),
 (00000004, 'DUPONT', 'Louis', 'DI', '4'),
 (00000005, 'DURAND', 'Armand', 'DI', '3'), 
-(00000006, 'FRANCAIS', 'François', 'DI', '4'),
-(00000007, 'ALLEGRE', 'Léa', 'ISIE', '5'),
-(00000008, 'GOUSSET', 'Luc', 'ISIE', '5'),
-(00000009, 'TURNER', 'Mathéo', 'DI', '4');
+(00000006, 'FRANCAIS', 'François', 'DI', '4');
